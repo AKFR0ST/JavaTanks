@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\FROST\Desktop\JAVA\Java_Bootcamp.Team01-1\src\ex00\TanksClient-folder\Client\out\artifacts\Client_jar\Client.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FROST\Desktop\JAVA\Java_Bootcamp.Team01-1\src\ex00\TanksClient-folder\Client\out\artifacts\Client_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\FROST\gcc\bin;C:\Users\FROST\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\FROST\gcc\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jre-1.8\bin;C:\repo\apache-maven-3.9.8\bin;C:\ideaUI\bin;C:\Users\FROST\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\FROST\AppData\Local\Programs\Python\Python312\;C:\Users\FROST\AppData\Local\Microsoft\WindowsApps;C:\Users\FROST\AppData\Local\Programs\Microsoft VS Code\bin;C:\ideaUI\bin;;C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot;C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\FROST\gcc\bin;C:\Users\FROST\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\FROST\gcc\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jre-1.8\bin;C:\repo\apache-maven-3.9.8\bin;C:\ideaUI\bin;C:\Users\FROST\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\FROST\AppData\Local\Programs\Python\Python312\;C:\Users\FROST\AppData\Local\Microsoft\WindowsApps;C:\Users\FROST\AppData\Local\Programs\Microsoft VS Code\bin;C:\ideaUI\bin;;C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_003 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FROST\Desktop\JAVA\Java_Bootcamp.Team01-1\src\ex00\TanksClient-folder\Client\out\artifacts\Client_jar\Client.exe"
+Args length:	128/32768 chars
+Exit code:	0
